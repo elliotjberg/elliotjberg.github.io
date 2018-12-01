@@ -25,23 +25,23 @@ In my spare* time I try to avoid technology and focus on other pursuits. I've be
 - Windows Server - Active Directory, Group Policy, PowerShell
 
 ## DevOps Manager
-*Key Responsibilities*:  Head of new department (reporting to CTO), create and own a DevOps culture and build a team of automation experts, rebuild the core hosting platforms for 4 B2B products.
+*Head of new department (reporting to CTO), create and own a DevOps culture and build a team of automation experts, rebuild the core hosting platforms for 4 B2B products.*
 
-*Technical Stack*:
+**Technical Stack**:
 - Azure - App Services, Cloud Services, Functions, Resource Manager templates, SQL Databases, Virtual Machines, VNets
 - Office 365 - Active Directory, Exchange, Users & Billing
 
 ## Lead AWS Consultant
-*Key Responsibilities*: Leadership of a small technical team, technical architect for AWS solutions including working closely with the solutions architect and customer to own 1 of the 2 core project work streams.
+*Leadership of a small technical team, technical architect for AWS solutions including working closely with the solutions architect and customer to own 1 of the 2 core project work streams.*
 
-*Technical Stack*:
+**Technical Stack**:
 - AWS (CloudFormation, EC2, VPC)
 - Windows Server - Active Directory, Certificate Services, Group Policy, MSSQL, PowerShell
 
 ## Senior DevOps Engineer
-*Key Responsibilities*: Ownership of 4 project workstreams including core business services, usually the sole or lead representative for all operations functions (infra, DBA, 1st/2nd/3rd line support) for that project. Hands-on build/deploy/run and architecture.
+*Leader of 4 DevOps project workstreams including core business services, usually the sole or lead representative for all operations functions (infra, DBA, 1st/2nd/3rd line support) for that project. Hands-on build/deploy/run and architecture.*
 
-*Technical Stack*:
+**Technical Stack**:
 - AWS (CloudFormation, EC2, Elastic Beanstalk, Route53, VPC)
 - Azure - API Management, App Services, Cloud Services, Functions, Resource Manager templates, Storage (Blob and Table), SQL Databases, Virtual Machines, VNets
 - Linux - (Centos/RHEL): Apache, Bash, HAProxy, Nginx, Postfix, Python
