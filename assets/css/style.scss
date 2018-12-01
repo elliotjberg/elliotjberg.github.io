@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
-p.smaller {
+p.citations {
   font-size: smaller;
+  font-style: italic;
 }
