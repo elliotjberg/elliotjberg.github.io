@@ -4,7 +4,7 @@ By day I'm a DevOps consultant (however by night I'm not a superhero, sadly) - t
 
 In my spare* time I try to avoid technology and focus on other pursuits. I've been actively involved in Scouting for around 20 years in one way or another, and have held various hands-on, leadership, management, and executive roles at local, District, County, and National levels.
 
-\* - 'spare' is a loose definition ranging from 5 minutes a day to...well actually, that's about it.
+*\* - 'spare' is a loose definition ranging from 5 minutes a day to...well actually, that's about it.*
 
 ## Contact Me: &nbsp; [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) &nbsp; [![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
 
@@ -15,14 +15,14 @@ In my spare* time I try to avoid technology and focus on other pursuits. I've be
 # Previous Projects / Roles
 
 ## Lead DevOps Engineer
-*Key Responsibilities*: Technical lead for a small team, primary contact for customer, technical architecture and ownership of backlog and planning.
+*Technical lead for a small team, primary contact for customer, technical architecture and ownership of backlog and planning.*
 
 *Technical Stack*:
-- AWS - Directory Services, EC2, RDS, Route53, VPC
-- Docker, Kubernetes
-- HashiCorp - Consul, Packer, Terraform, Vault
-- Linux - (Centos/RHEL): Bash, Nginx, Python
-- Windows Server - Active Directory, Group Policy, PowerShell
+ - AWS - Directory Services, EC2, RDS, Route53, VPC
+ - Docker, Kubernetes
+ - HashiCorp - Consul, Packer, Terraform, Vault
+ - Linux - (Centos/RHEL): Bash, Nginx, Python
+ - Windows Server - Active Directory, Group Policy, PowerShell
 
 ## DevOps Manager
 *Key Responsibilities*:  Head of new department (reporting to CTO), create and own a DevOps culture and build a team of automation experts, rebuild the core hosting platforms for 4 B2B products.
