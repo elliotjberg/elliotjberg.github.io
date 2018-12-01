@@ -8,8 +8,8 @@
 By day I'm a DevOps consultant (however by night I'm not a superhero, sadly) - the work is varied and covers a variety of technical stacks and working practices. Here's a glimpse into some of my projects over the last few years:
 
 **Lead DevOps Engineer**  
-Key Responsibilities: *Technical lead for a small team, primary contact for customer, technical architecture and subsequent definition of backlog*  
-Technical Stack: *AWS (Directory Services, EC2, RDS, Route53, VPC), Windows Server, Docker, Kubernetes*
+*Key Responsibilities*: Technical lead for a small team, primary contact for customer, technical architecture and subsequent definition of backlog  
+*Technical Stack*: AWS (Directory Services, EC2, RDS, Route53, VPC), Windows Server, Docker, Kubernetes
 
 
 ### Personal
