@@ -6,4 +6,4 @@
 
 You can contact me through the following methods:
 
-![LinkedIn](/images/LinkedIn.png) [LinkedIn](https://www.linkedin.com/in/elliotberg/)
+[![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/)
