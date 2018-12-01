@@ -2,7 +2,7 @@
 
 By day I'm a DevOps consultant (however by night I'm not a superhero, sadly) - the work is varied and covers a variety of technical stacks and working practices. My experience comes from a wide background of roles and projects, including software development, traditional on-premise infrastructure management, cloud-native & DevOps engineering, and infrastructure & DevOps consulting.
 
-## Contact Me: [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/)&nbsp;&nbsp;[![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
+## Contact Me: &nbsp;&nbsp; [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) &nbsp;&nbsp; [![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
 
 # Previous Projects / Roles
 
