@@ -2,8 +2,7 @@
 
 By day I'm a DevOps consultant (however by night I'm not a superhero, sadly) - the work is varied and covers a variety of technical stacks and working practices.
 
-# Experience
-Below is a glimpse into some of my projects over the last few years.
+# Previous Projects / Roles
 
 ## Lead DevOps Engineer
 *Key Responsibilities*: Technical lead for a small team, primary contact for customer, technical architecture and ownership of backlog and planning.
