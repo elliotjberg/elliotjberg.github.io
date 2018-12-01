@@ -1,6 +1,10 @@
-# Elliot Berg [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) [![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
+# Elliot Berg
 
 By day I'm a DevOps consultant (however by night I'm not a superhero, sadly) - the work is varied and covers a variety of technical stacks and working practices.
+
+### Contact
+[![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) [![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
+
 
 # Previous Projects / Roles
 
@@ -43,12 +47,3 @@ By day I'm a DevOps consultant (however by night I'm not a superhero, sadly) - t
 In my spare* time I try to avoid technology and focus on other pursuits. I've been actively involved in Scouting for around 20 years in one way or another, and have held various hands-on, leadership, management, and executive roles at local, District, County, and National levels.
 
 \* - 'spare' is a loose definition ranging from 5 minutes a day to...well actually, that's about it.
-
-
-# Contact
-
-You can contact me through the following methods:
-
-[![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/)
-
-[![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
