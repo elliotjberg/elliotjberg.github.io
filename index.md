@@ -8,8 +8,9 @@ In my spare* time I try to avoid technology and focus on other pursuits. I've be
 
 ## Contact Me: &nbsp; [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) &nbsp; [![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
 
-\  
-\  
+<br/>  
+<br/>
+<br/>
 
 # Previous Projects / Roles
 
