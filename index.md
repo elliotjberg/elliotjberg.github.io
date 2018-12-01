@@ -17,14 +17,12 @@ In my spare* time I try to avoid technology and focus on other pursuits. I've be
 ## Lead DevOps Engineer
 *Technical lead for a small team, primary contact for customer, technical architecture and ownership of backlog and planning.*
 
-Technical Stack:
-<p>
+**Technical Stack**:
 - AWS - Directory Services, EC2, RDS, Route53, VPC
 - Docker, Kubernetes
 - HashiCorp - Consul, Packer, Terraform, Vault
 - Linux - (Centos/RHEL): Bash, Nginx, Python
 - Windows Server - Active Directory, Group Policy, PowerShell
-</p>
 
 ## DevOps Manager
 *Key Responsibilities*:  Head of new department (reporting to CTO), create and own a DevOps culture and build a team of automation experts, rebuild the core hosting platforms for 4 B2B products.
@@ -41,10 +39,10 @@ Technical Stack:
 - Windows Server - Active Directory, Certificate Services, Group Policy, MSSQL, PowerShell
 
 ## Senior DevOps Engineer
-*Key Responsibilities*: Ownership of 4 project workstreams including core business services, usually the sole or lead representative of all operations functions. Hands-on build/deploy/run and architecture.
+*Key Responsibilities*: Ownership of 4 project workstreams including core business services, usually the sole or lead representative for all operations functions (infra, DBA, 1st/2nd/3rd line support) for that project. Hands-on build/deploy/run and architecture.
 
 *Technical Stack*:
 - AWS (CloudFormation, EC2, Elastic Beanstalk, Route53, VPC)
-- Azure - API Management, App Services, Cloud Services, Functions, Resource Manager templates, Storage (Blob and Tabel), SQL Databases, Virtual Machines, VNets
+- Azure - API Management, App Services, Cloud Services, Functions, Resource Manager templates, Storage (Blob and Table), SQL Databases, Virtual Machines, VNets
 - Linux - (Centos/RHEL): Apache, Bash, HAProxy, Nginx, Postfix, Python
 - Windows Server - Active Directory, PowerShell
