@@ -18,11 +18,11 @@ In my spare* time I try to avoid technology and focus on other pursuits. I've be
 *Technical lead for a small team, primary contact for customer, technical architecture and ownership of backlog and planning.*
 
 Technical Stack:
-  - AWS - Directory Services, EC2, RDS, Route53, VPC
-  - Docker, Kubernetes
-  - HashiCorp - Consul, Packer, Terraform, Vault
-  - Linux - (Centos/RHEL): Bash, Nginx, Python
-  - Windows Server - Active Directory, Group Policy, PowerShell
+   - AWS - Directory Services, EC2, RDS, Route53, VPC
+   - Docker, Kubernetes
+   - HashiCorp - Consul, Packer, Terraform, Vault
+   - Linux - (Centos/RHEL): Bash, Nginx, Python
+   - Windows Server - Active Directory, Group Policy, PowerShell
 
 ## DevOps Manager
 *Key Responsibilities*:  Head of new department (reporting to CTO), create and own a DevOps culture and build a team of automation experts, rebuild the core hosting platforms for 4 B2B products.
