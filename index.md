@@ -1,4 +1,4 @@
-# Elliot Berg
+# Elliot Berg [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) [![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
 
 ## Lead DevOps & Cloud Infrastructure Engineer, Technical Architect, Agile advocate.
 
@@ -7,9 +7,9 @@
 
 By day I'm a DevOps consultant (however by night I'm not a superhero, sadly) - the work is varied and covers a variety of technical stacks and working practices. Here's a glimpse into some of my projects over the last few years:
 
-**Role:** Lead DevOps Engineer  
-**Key Responsibilities:** Technical lead for a small team, primary contact for customer, technical architecture and subsequent definition of backlog  
-**Technical Stack:** AWS (Directory Services, EC2, RDS, Route53, VPC), Windows Server, Docker, Kubernetes
+**Lead DevOps Engineer**  
+Key Responsibilities: *Technical lead for a small team, primary contact for customer, technical architecture and subsequent definition of backlog*  
+Technical Stack: *AWS (Directory Services, EC2, RDS, Route53, VPC), Windows Server, Docker, Kubernetes*
 
 
 ### Personal
