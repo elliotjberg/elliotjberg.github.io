@@ -1,4 +1,4 @@
-# Elliot Berg
+# About Me
 
 By day I'm a DevOps consultant (however by night I'm not a superhero, sadly) - the work is varied and covers a wide range of technical stacks and working practices. My experience comes from a broad background of roles and projects, including software development, traditional on-premise infrastructure management, cloud-native & DevOps engineering, and infrastructure & DevOps consulting.
 
@@ -6,7 +6,7 @@ In my spare* time I try not to sit in front a computer and instead focus on othe
 
 *\* - 'spare' is a loose definition ranging from 5 minutes a day to...well actually, that's about it.*
 
-## Contact Me: &nbsp; [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) &nbsp; [![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
+## Contact: &nbsp; [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) &nbsp; [![eMail](/images/eMail.png)](mailto:website@elliotberg.co.uk)
 
 <br/>  
 <br/>
