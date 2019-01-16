@@ -4,11 +4,12 @@ Like most people, I rely on various companies to provide services which make my 
 
 ## Banking / Finance
 - [RateSetter](http://link.ratesetter.com/MR7EXLY) - peer to peer lending, very good platform for management and great rates.
-- [TopCashBack](https://www.topcashback.co.uk/ref/elliotberg) - cash back on plenty of regular spending online.
 
 ## Hosting
 - [ChunkHost](https://chunkhost.com/r/ubuntu8811) - US based, moderate performance.
 - [Linode](https://www.linode.com/?r=43b1400f073cab61f70b086caa3044f0c8957772) - multiple continents, high performance.
 - [VPSDime](https://vpsdime.com/aff.php?aff=1854) - US based, moderate performance, primarily targeted at storage.
 
-## Contact: &nbsp; [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) &nbsp; [![eMail](/images/eMail.png)](mailto:elliot@elliotberg.co.uk)
+## Shopping
+- [TopCashBack](https://www.topcashback.co.uk/ref/elliotberg) - cash back on plenty of regular spending online.
+- [Secret Garden Club](https://goo.gl/sT1Kcf) - great flowers and plants and good prices.
