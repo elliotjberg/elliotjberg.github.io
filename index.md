@@ -12,6 +12,10 @@ In my spare* time I try not to sit in front a computer and instead focus on othe
 <br/>
 <br/>
 
+# Certifications
+
+I've got a number of certifications, and am always working towards achieving more. For a full list, check out my [LinkedIn page]((https://www.linkedin.com/in/elliotberg/)).
+
 # Previous Projects / Roles
 
 ## Lead DevOps Engineer
