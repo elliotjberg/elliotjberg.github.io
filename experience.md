@@ -32,7 +32,6 @@
 *Leader of 4 DevOps project workstreams including core business services, usually the sole or lead representative for all operations functions (infra, DBA, 1st/2nd/3rd line support) for that project. Hands-on build/deploy/run and architecture.*
 
 **Tech Stack**:
-Tech Stack:
 - AWS: CloudFormation, EC2, Elastic Beanstalk, Route53, VPC
 - Azure: API Management, App Services, Cloud Services, Functions, Resource Manager templates, Storage (Blob and Table), SQL Databases, Virtual Machines, VNets
 - Linux: (Centos/RHEL): Apache, Bash, HAProxy, Nginx, Postfix, Python
