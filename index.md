@@ -2,7 +2,7 @@
 
 I help customers to design and implement complex cloud native platforms across a variety of technologies, to enable rapid application delivery capabilities which keep them ahead of their competition. I achieve this through fostering an agile, DevOps approach including automation and collaborative working practices. My roles typically include leading DevOps & cloud infrastructure engineering teams, technical architecture, and agile coaching.
 
-In my spare* time I try not to sit in front a computer and instead focus on other pursuits. I've been actively involved in Scouting for around 20 years in one way or another, and have held various hands-on, leadership, management, and executive roles at local, District, County, and National levels.
+In my spare* time I try not to sit in front a computer and instead focus on other pursuits. I've been actively involved in Scouting since I was a child, and have held various hands-on, leadership, management, and executive roles at local, District, County, and National levels.
 
 <p class="citations">* 'spare' is a loose definition ranging from 5 minutes a day to...well actually, that's about it.</p>
 
