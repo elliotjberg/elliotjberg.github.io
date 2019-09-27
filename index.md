@@ -6,7 +6,7 @@ In my spare* time I try not to sit in front a computer and instead focus on othe
 
 <p class="citations">* 'spare' is a loose definition ranging from 5 minutes a day to...well actually, that's about it.</p>
 
-## Contact: &nbsp; [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) &nbsp; [![eMail](/images/eMail.png)](mailto:elliot@elliotberg.co.uk)
+## Contact: &nbsp; [![LinkedIn](/images/LinkedIn.png)](https://www.linkedin.com/in/elliotberg/) &nbsp; [![eMail](/images/eMail.png)](mailto:work@elliotberg.co.uk)
 
 ## Certifications
 
