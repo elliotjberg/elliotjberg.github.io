@@ -11,6 +11,9 @@ Like most people, I rely on various companies to provide services which make my 
 - [Linode](https://www.linode.com/?r=43b1400f073cab61f70b086caa3044f0c8957772) - multiple continents, high performance.
 - [VPSDime](https://vpsdime.com/aff.php?aff=1854) - US based, moderate performance, primarily targeted at storage.
 
+## Insurance
+- [Chris Knott](https://www.chrisknott.co.uk/) - Use referral code 480-BEEX25.
+
 ## Shopping
 - [Secret Garden Club](https://goo.gl/sT1Kcf) - great flowers and plants and good prices.
 - [TopCashBack](https://www.topcashback.co.uk/ref/elliotberg) - cash back on plenty of regular spending online.
