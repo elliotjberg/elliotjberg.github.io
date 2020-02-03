@@ -20,3 +20,6 @@ Like most people, I rely on various companies to provide services which make my 
 ## Shopping
 - [Secret Garden Club](https://goo.gl/sT1Kcf) - great flowers and plants and good prices.
 - [TopCashBack](https://www.topcashback.co.uk/ref/elliotberg) - cash back on plenty of regular spending online.
+
+## Utilities
+- [Green Network Energy](https://join.greennetworkenergy.co.uk/?referee=GTNiEx2e0j0e3H247r4i8r07) - A renewable energy supplier with good prices.
